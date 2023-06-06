@@ -119,7 +119,7 @@ def main():
         
         
         
-        Yapmak istediğiniz işlemi seçin:\n1. Bağlı IP Adreslerini Göster\n2. IP Adresinin Cihaz Adını Öğren\n3. Port Taraması Yap\n4. IP Adresinin Bilgilerini Al\n5. yoskAss DDos\n6. Çıkış\nSeçiminiz: '''
+        Yapmak istediğiniz işlemi seçin:\n1. Wifi'nize bağlı IP Adreslerini Göster\n2. IP Adresinin Cihaz Adını Öğren\n3. Port Taraması Yap\n4. IP Adresinin Bilgilerini Al\n5. yoskAss DDos\n6. Çıkış\nSeçiminiz: '''
         
         )
 
